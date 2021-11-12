@@ -1,2 +1,5 @@
 # Python_HarshithaBR
-This repository is created for the purpose of case study
+import calender
+y = int(input("Input the year: "))
+m = int(input("Input the month: "))
+print(calendar.month(y,m))
